@@ -1,0 +1,6 @@
+German = ["BMW", "AUDI", "VOLKSWAGEN"]
+British = ["Range", "Bentley", "Rolls"]
+American = ["Chevrolet", "Ford", "Jeep"]
+cars = [German, British, American]
+
+print(cars[0][1])  # Prints the second German car, which is "AUDI"
