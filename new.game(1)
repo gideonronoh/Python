@@ -1,0 +1,21 @@
+def new_game():
+         pass
+def check_answer():
+        pass
+def display_score():
+        pass
+def play_again():
+        pass
+
+questions = {
+        "what happens on saturday?: ": "A",
+        "what date is saturday?: ": "B",
+        "What shoes do i got on?: ": "C",
+        "What is the other event?: ": "D",     
+}
+options = {
+        "A": ["A.Sunday","B.Monday","C.Tuesday","D.Wednesday"],
+        "B":["A.28","B.29","C.27","D.29"],
+        "C":["A.Jordan 1","B.Jordan 4","C.Rubbers","D.Slides"],
+        "D":["A.Carmeet","B.Devfest","C.Birthday","D.Cookout"]
+}
